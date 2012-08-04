@@ -1,0 +1,542 @@
+Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	*runes	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6	T1Code7	T1Param7	T1Min7	T1Max7	eol
+Runeword1	Ancient's Pledge	1		shld									RalOrtTal	r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
+Runeword6	Black	1		club	hamm	mace								r10	r16	r04				crush		40	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
+Runeword44	Fury	1		mele									JahGulEth	r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
+Runeword54	Holy Thunder	1		scep										r05	r08	r09	r07			dmg%		60	60	dmg-ltng		20	60	dmg-max		10	10	res-ltng		60	60	res-ltng-max		5	5	skill	118	3	3	charged	53	60	7	0
+Runeword55	Honor	1		mele										r11	r01	r06	r03	r12		dmg%		160	160	regen		10	10	allskills		1	1	att		200	200	deadly		25	25	str		10	10					0
+Runeword65	King's Grace	1		swor	scep									r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
+Runeword72	Leaf	1		staf										r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	41	3	3	skill	36	3	3	skill	37	3	3					0
+Runeword74	Lionheart	1		tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		20	20	hp		50	50	res-all		30	30					0
+Runeword75	Lore	1		helm										r09	r12					enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
+Runeword81	Malice	1		mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
+Runeword82	Melody	1		miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
+Runeword83	Memory	1		staf										r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
+Runeword88	Nadir	1		helm										r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5					0
+Runeword116	Radiance	1		helm										r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		3	3	mana		33	33	ac%		75	75					0
+Runeword120	Rhyme	1		shld										r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
+Runeword126	Silence	1		weap									DolEldHelIstTirVex	r14	r02	r15	r24	r03	r26	manasteal		4	4	stupidity		33	33	dmg%		200	200	swing2		20	20	res-all		75	75	allskills		2	2	balance2		20	20	0
+Runeword128	Smoke	1		tors										r04	r17					ac-miss		250	250	ac%		75	75	res-all		50	50	balance2		20	20	light		-1	-1	charged	72	18	6					0
+Runeword133	Stealth	1		tors										r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
+Runeword134	Steel	1		swor	axe	mace								r03	r01					swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20									0
+Runeword139	Strength	1		mele										r11	r03					str		20	20	dmg%		35	35	vit		10	10	crush		25	25													0
+Runeword154	Venom	1		weap										r07	r14	r23				dmg-pois	175	312	312	ignore-ac		1	1	charged	83	27	15	charged	92	11	13	manasteal		7	7									0
+Runeword160	Wealth	1		tors										r20	r18	r03				gold%		250	250	mag%		100	100																					0
+Runeword162	White	1		wand									DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
+Runeword170	Zephyr	1		miss										r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
+Runeword14	Bound by Duty	1		tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
+Runeword9	Bramble	1		tors									RalOhmSurEth	r08	r27	r29	r05			balance2		50	50	ac		300	300	aura	Thorns	15	21	heal-kill		13	13	extra-pois		25	50	res-pois		100	100	charged	Spirit of Barbs	33	13	0
+Runeword11	Breath of the Dying	1		weap									VexHelElEldZodEth	r26	r15	r01	r02	r33	r05	swing2		60	60	dmg-undead		125	125	lifesteal		12	15	noheal		1	1	kill-skill	Poison Nova	50	20	dmg%		350	400	all-stats		30	30	0
+Runeword13	Call to Arms	1		weap									AmnRalMalIstOhm	r11	r08	r23	r24	r27		swing2		40	40	dmg%		200	240	allskills		1	1	oskill	Battle Command	2	6	oskill	Battle Orders	1	6	oskill	Battle Cry	1	4	regen		12	12	0
+Runeword17	Crescent Moon	1		axe	swor	pole							ShaelUmTir	r13	r22	r03				pierce-ltng		35	35	ignore-ac		1	1	dmg%		180	220	abs-mag		9	11	charged	Summon Spirit Wolf	30	18	hit-skill	Static Field	7	13	hit-skill	Chain Lightning	10	17	0
+Runeword22	Delirium	1		helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	gethit-skill	Delerium Change	1	50	allskills		2	2	0
+Runeword26	Doomsayer	1		axe	pole	hamm							HelOhmUmLoCham	r15	r27	r22	r28	r32		dmg%		280	320	aura	Holy Freeze	12	12	swing2		45	45	noheal		1	1	pierce-cold		40	60	allskills		2	2	hit-skill	Volcano	5	18	0
+Runeword33	Enigma	1		tors									JahIthBer	r31	r06	r30				ac		750	775	heal-kill		14	14	move2		45	45	str/lvl	6			allskills		2	2	mag%/lvl	8			oskill	Teleport	1	1	0
+Runeword137	Stone	1		tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
+Runeword36	Eternity	1		mele									AmnBerIstSolSur	r11	r30	r24	r12	r29		dmg%		260	310	indestruct		1	1	slow		33	33	charged	Revive	88	8	regen		16	16	regen-mana		16	16	nofreeze		1	1	0
+Runeword37	Exile's Path	1		pala									VexOhmIstDol	r26	r27	r24	r14			block2		30	30	freeze		1	1	ac%		220	260	aura	Defiance	13	16	skilltab	10	2	2	hit-skill	Life Tap	15	5	rep-dur	25			0
+Runeword39	Famine	1		axe	hamm								FalOhmOrtJah	r19	r27	r09	r31			dmg%		270	320	lifesteal		12	12	swing2		30	30	noheal		1	1	dmg-mag		180	200	dmg-elem	100	50	200	ethereal		1	1	0
+Runeword48	Hand of Justice	1		weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		280	330	aura	Holy Fire	16	16	levelup-skill	Blaze	100	36	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
+Runeword51	Heart of the Oak	1		staf	mace								KoVexPulThul	r18	r26	r21	r10			cast2		40	40	charged	Oak Sage	25	4	mana%		15	15	allskills		3	3	regen		20	20	res-all		30	40	charged	Raven	60	14	0
+Runeword66	Kingslayer	1		swor	axe								MalUmGulFal	r23	r22	r25	r19			swing2		30	30	dmg%		230	270	reduce-ac		25	25	crush		33	33	openwounds		25	25	oskill	Vengeance	1	1	gold%		40	40	0
+Runeword95	Passion	1		weap									DolOrtEldLem	r14	r09	r02	r20			dmg%		160	210	oskill	Zeal	1	1	att%		50	80	oskill	Berserk	1	1	swing2		25	25	charged	Heart of Wolverine	12	3	stupidity		10	10	0
+Runeword45	Gloom	1		tors									FalUmPul	r19	r22	r21				ac%		170	230	res-all		30	30	gethit-skill	Dim Vision	15	3	balance2		10	10	dmg-to-mana		5	5	light		-3	-3	half-freeze		1	1	0
+Runeword122	Sanctuary	1		shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	ac-miss		250	250	res-all		50	70	balance2		20	20	charged	Slow Missiles	60	12	0
+Runeword16	Chaos	1		h2h									FalOhmUm	r19	r27	r22				demon-heal		15	15	dmg%		240	290	dmg-mag		216	471	oskill	Whirlwind	1	1	swing2		35	35	hit-skill	Frozen Orb	9	11	hit-skill	Charged Bolt	11	9	0
+Runeword4	The Beast	1		axe	scep	hamm								r30	r03	r22	r23	r17		swing2		40	40	aura	Fanaticism	9	9	dmg%		240	270	str		25	40	charged	Summon Grizzly	5	13	oskill	Wearbear	3	3	oskill	Shape Shifting	3	3	0
+Runeword123	Serendipity																																															0
+Runeword124	Shadow																																															0
+Runeword125	Shadow of Doubt																																															0
+Runeword127	Siren's Song																																															0
+Runeword129	Sorrow																																															0
+Runeword130	Spirit																																															0
+Runeword131	Splendor																																															0
+Runeword132	Starlight																																															0
+Runeword135	Still Water																																															0
+Runeword30	Duress																																															0
+Runeword138	Storm																																															0
+Runeword140	Tempest																																															0
+Runeword141	Temptation																																															0
+Runeword142	Terror																																															0
+Runeword90	Nightfall																																															0
+Runeword91	Oath																																															0
+Runeword92	Obedience																																															0
+Runeword93	Oblivion	1		swor	axe	pole							DolEtanAmnThanHel	r14	r55	r11	r46	r15		bar		3	5	hit-skill	Decrepify	15	35	dmg%		300	400	str/time	2	3	30	oskill	Zeal	4	8	attack2		25	50	charged	236	15	25	0
+Runeword94	Obsession																																															0
+Runeword49	Harmony																																															0
+Runeword50	Hatred																																															0
+Runeword40	Flickering Flame																																															0
+Runeword41	Fortitude																																															0
+Runeword42	Fortune's Favor																																															0
+Runeword89	Nature's Kingdom	1		mau	axe	pole							KaliLemSol	r64	r20	r12				dru		5	7	rip		1	1	aura	Thorns	10	20	dmg%		350	390	charged	231	20	10	hp%		40	50	skill	Lycanthropy	10	20	0
+Runeword46	Glory																																															0
+Runeword38	Faith																																															0
+Runeword43	Amity																																															0
+Runeword2	Armageddon																																															0
+Runeword3	Authority																																															0
+Runeword5	Beauty																																															0
+Runeword7	Blood	1		tors									JahBerElUm	r31	r30	r01	r22			heal-kill		15	20	aura	Prayer	3	5	hp%		15	45	regen		60	100	vit/lvl	40			hp/lvl	80			charged	85	30	25	0
+Runeword8	Poison	1		head									CalUmEtan	r47	r22	r55				nec		5	5	aura	Might	12	12	red-dmg%		20	30	extra-pois		150	250	cast3		25	45									0
+Runeword10	Hell-Branded																																															0
+Runeword12	Broken Promise																																															0
+Runeword15	Chance																																															0
+Runeword136	Sting																																															0
+Runeword18	Darkness																																															0
+Runeword19	Daylight																																															0
+Runeword20	Death																																															0
+Runeword21	Deception																																															0
+Runeword23	Desire																																															0
+Runeword24	Despair																																															0
+Runeword32	Destiny's Daughter	1		miss									JahReaOrdeSurIth	r31	r51	r57	r29	r06		ama		4	6	dmg-norm		35	50	dmg%		300	400	knock		1	1	rip		1	1	extra-cold		50	95	swing2		50	50	0
+Runeword25	Destruction																																															0
+Runeword27	Dragon																																															0
+Runeword28	Dread																																															0
+Runeword29	Dream																																															0
+Runeword56	Dweomer																																															0
+Runeword31	Edge																																															0
+Runeword34	Enlightenment	1		tors																																												0
+Runeword35	Envy																																															0
+Runeword52	Hawkeye	1		weap									EtanAmnGulLoEld	r55	r11	r25	r28	r02		allskills		8	12	aura	Blessed Aim	15	15	att%		75	150	dmg%		435	465	oskill	Penetrate	10	10	dex/lvl	16			swing2		50	75	0
+Runeword53	Holy Tears	1		ashd									MortUmIrmaShael	r50	r22	r56	r13			pal		5	5	gethit-skill	Fist of the Heavens	50	30	red-dmg%		15	30	res-all		40	75	res-all-max		20	25	all-stats		35	70	str/lvl	6			0
+Runeword57	Humility																																															0
+Runeword58	Hunger																																															0
+Runeword59	Ice																																															0
+Runeword60	Infinity																																															0
+Runeword61	Innocence																																															0
+Runeword62	Insight																																															0
+Runeword63	Jealousy																																															0
+Runeword64	Judgment																																															0
+Runeword67	Aurismatic Vigil	1		tors									ElMalOliVilaEtan	r01	r23	r63	r59	r55		pal		5	7	extra-cold		45	95	extra-ltng		45	95	skill	118	7	7	skill	114	7	7	regen		50	100	nofreeze		1	1	0
+Runeword69	Last Wish																																															0
+Runeword70	Law																																															0
+Runeword71	Lawbringer																																															0
+Runeword73	Lightning																																															0
+Runeword77	Loyalty																																															0
+Runeword78	Lust																																															0
+Runeword79	Madness																																															0
+Runeword84	Mist																																															0
+Runeword85	Morning Dew																																															0
+Runeword86	Mystery																																															0
+Runeword87	Myth																																															0
+Runeword95	Patience																																															0
+Runeword97	Pattern																																															0
+Runeword98	Peace																																															0
+Runeword100	Penitence																																															0
+Runeword101	Peril																																															0
+Runeword102	Pestilence																																															0
+Runeword103	Phoenix	1		orb									KoIstAtli	r18	r24	r62				sor		3	7	extra-fire		75	150	extra-cold		75	150	extra-ltng		75	150	res-all		50	125	aura	Conviction	15	15	vit/lvl	1			0
+Runeword104	Piety																																															0
+Runeword105	Pillar of Faith																																															0
+Runeword106	Plague																																															0
+Runeword107	Praise																																															0
+Runeword108	Prayer																																															0
+Runeword109	Pride																																															0
+Runeword110	Principle																																															0
+Runeword111	Prowess in Battle																																															0
+Runeword112	Prudence																																															0
+Runeword113	Punishment																																															0
+Runeword114	Purity																																															0
+Runeword115	Question																																															0
+Runeword117	Rain																																															0
+Runeword118	Reason																																															0
+Runeword119	Red																																															0
+Runeword121	Rift																																															0
+Runeword76	The Lovers																																															0
+Runeword143	Thirst																																															0
+Runeword68	Gaia's Knowledge	1		tors									TirRenVexEtan	r03	r40	r26	r55			mana-kill		25	25	aura	Meditation	5	15	mana%		30	50	regen-mana		50	100	enr/lvl	5			mana/lvl	40			oskill	Warmth	25	25	0
+Runeword144	Thought																																															0
+Runeword145	Thunder																																															0
+Runeword146	Time																																															0
+Runeword147	Tradition																																															0
+Runeword148	Treachery																																															0
+Runeword149	Trust																																															0
+Runeword150	Truth																																															0
+Runeword151	Unbending Will																																															0
+Runeword152	Valor																																															0
+Runeword153	Vengeance			weap																																												0
+Runeword155	Victory																																															0
+Runeword156	Voice			helm																																												0
+Runeword157	Void																																															0
+Runeword158	War																																															0
+Runeword159	Water																																															0
+Runeword161	Whisper																																															0
+Runeword47	Widowmaker																																															0
+Runeword163	Wind																																															0
+Runeword164	Wings of Hope	1		boot									GilKo	r34	r18					str/lvl	12			vit/lvl	12			aura	Prayer	10	10	allskills		3	5													0
+Runeword99	Winter																																															0
+Runeword165	Wisdom																																															0
+Runeword166	Woe																																															0
+Runeword167	Wonder																																															0
+Runeword168	Wrath																																															0
+Runeword169	Youth																																															0
+Runeword200	Damage	1		helm	glov	belt	boot							gcv						dmg-max		3	3																									0
+Runeword201	Damage	1		helm	glov	belt	boot							gcv	gcv					dmg-max		4	4																									0
+Runeword202	Damage	1		helm	glov		boot							gcv	gcv	gcv				dmg-max		5	5																									0
+Runeword203	Damage	1		helm	glov	belt	boot							gfv						dmg-max		5	5																									0
+Runeword204	Damage	1		helm	glov	belt	boot							gfv	gfv					dmg-max		7	7																									0
+Runeword205	Damage	1		helm	glov		boot							gfv	gfv	gfv				dmg-max		9	9																									0
+Runeword206	Damage	1		helm	glov	belt	boot							gsv						dmg-max		5	5	dmg-min		5	5																					0
+Runeword207	Damage	1		helm	glov	belt	boot							gsv	gsv					dmg-max		7	7	dmg-min		7	7																					0
+Runeword208	Damage	1		helm	glov		boot							gsv	gsv	gsv				dmg-max		9	9	dmg-min		9	9																					0
+Runeword209	Damage	1		helm	glov	belt	boot							gzv						dmg-max		5	5	dmg-min		7	7																					0
+Runeword210	Damage	1		helm	glov	belt	boot							gzv	gzv					dmg-max		7	7	dmg-min		9	9																					0
+Runeword211	Damage	1		helm	glov		boot							gzv	gzv	gzv				dmg-max		9	9	dmg-min		12	12																					0
+Runeword212	Damage	1		helm	glov	belt	boot							gpv						dmg-max		5	5	dmg-min		7	7	dmg-mag		30	40																	0
+Runeword213	Damage	1		helm	glov	belt	boot							gpv	gpv					dmg-max		7	7	dmg-min		9	9	dmg-mag		40	50																	0
+Runeword214	Damage	1		helm	glov		boot							gpv	gpv	gpv				dmg-max		9	9	dmg-min		12	12	bar		1	1	dmg-mag		50	60													0
+Runeword215	Energy	1		helm	glov	belt	boot							gcy						mana		10	10																									0
+Runeword216	Energy	1		helm	glov	belt	boot							gcy	gcy					mana		13	13																									0
+Runeword217	Energy	1		helm	glov		boot							gcy	gcy	gcy				mana		15	15																									0
+Runeword218	Energy	1		helm	glov	belt	boot							gfy						mana		15	15																									0
+Runeword219	Energy	1		helm	glov	belt	boot							gfy	gfy					mana		20	20																									0
+Runeword220	Energy	1		helm	glov		boot							gfy	gfy	gfy				mana		25	25																									0
+Runeword221	Energy	1		helm	glov	belt	boot							gsy						mana		15	15	regen-mana		20	20																					0
+Runeword222	Energy	1		helm	glov	belt	boot							gsy	gsy					mana		20	20	regen-mana		30	30																					0
+Runeword223	Energy	1		helm	glov		boot							gsy	gsy	gsy				mana		25	25	regen-mana		40	40																					0
+Runeword224	Energy	1		helm	glov	belt	boot							gly						mana		15	15	regen-mana		30	30																					0
+Runeword225	Energy	1		helm	glov	belt	boot							gly	gly					mana		20	20	regen-mana		40	40																					0
+Runeword226	Energy	1		helm	glov		boot							gly	gly	gly				mana		25	25	regen-mana		60	60																					0
+Runeword227	Energy	1		helm	glov	belt	boot							gpy						mana		15	15	regen-mana		30	30	mana%		5	5																	0
+Runeword228	Energy	1		helm	glov	belt	boot							gpy	gpy					mana		20	20	regen-mana		40	40	mana%		7	7																	0
+Runeword229	Energy	1		helm	glov		boot							gpy	gpy	gpy				mana		25	25	regen-mana		60	60	sor		1	1	mana%		10	10													0
+Runeword230	Life	1		helm	glov	belt	boot							gcr						lifesteal		1	1																									0
+Runeword231	Life	1		helm	glov	belt	boot							gcr	gcr					lifesteal		2	2																									0
+Runeword232	Life	1		helm	glov		boot							gcr	gcr	gcr				lifesteal		3	3																									0
+Runeword233	Life	1		helm	glov	belt	boot							gfr						lifesteal		3	3																									0
+Runeword234	Life	1		helm	glov	belt	boot							gfr	gfr					lifesteal		4	4																									0
+Runeword235	Life	1		helm	glov		boot							gfr	gfr	gfr				lifesteal		5	5																									0
+Runeword236	Life	1		helm	glov	belt	boot							gsr						lifesteal		3	3	vit		5	5																					0
+Runeword237	Life	1		helm	glov	belt	boot							gsr	gsr					lifesteal		4	4	vit		7	7																					0
+Runeword238	Life	1		helm	glov		boot							gsr	gsr	gsr				lifesteal		5	5	vit		10	10																					0
+Runeword239	Life	1		helm	glov	belt	boot							glr						lifesteal		3	3	vit		10	10																					0
+Runeword240	Life	1		helm	glov	belt	boot							glr	glr					lifesteal		4	4	vit		13	13																					0
+Runeword241	Life	1		helm	glov		boot							glr	glr	glr				lifesteal		5	5	vit		15	15																					0
+Runeword242	Life	1		helm	glov	belt	boot							gpr						lifesteal		3	3	vit		10	10	hp%		5	5																	0
+Runeword243	Life	1		helm	glov	belt	boot							gpr	gpr					lifesteal		4	4	vit		13	13	hp%		7	7																	0
+Runeword244	Life	1		helm	glov		boot							gpr	gpr	gpr				lifesteal		5	5	vit		15	15	ass		1	1	hp%		10	10													0
+Runeword245	Magic	1		helm	glov	belt	boot							skc						mag%		10	10																									0
+Runeword246	Magic	1		helm	glov	belt	boot							skc	skc					mag%		15	15																									0
+Runeword247	Magic	1		helm	glov		boot							skc	skc	skc				mag%		20	20																									0
+Runeword248	Magic	1		helm	glov	belt	boot							skf						mag%		15	15																									0
+Runeword249	Magic	1		helm	glov	belt	boot							skf	skf					mag%		20	20																									0
+Runeword250	Magic	1		helm	glov		boot							skf	skf	skf				mag%		25	25																									0
+Runeword251	Magic	1		helm	glov	belt	boot							sku						mag%		15	15	mana-kill		4	4																					0
+Runeword252	Magic	1		helm	glov	belt	boot							sku	sku					mag%		20	20	mana-kill		6	6																					0
+Runeword253	Magic	1		helm	glov		boot							sku	sku	sku				mag%		25	25	mana-kill		8	8																					0
+Runeword254	Magic	1		helm	glov	belt	boot							skl						mag%		15	15	mana-kill		6	6																					0
+Runeword255	Magic	1		helm	glov	belt	boot							skl	skl					mag%		20	20	mana-kill		8	8																					0
+Runeword256	Magic	1		helm	glov		boot							skl	skl	skl				mag%		25	25	mana-kill		10	10																					0
+Runeword257	Magic	1		helm	glov	belt	boot							skz						mag%		15	15	mana-kill		6	6	cast3		20	20																	0
+Runeword258	Magic	1		helm	glov	belt	boot							skz	skz					mag%		20	20	mana-kill		8	8	cast3		30	30																	0
+Runeword259	Magic	1		helm	glov		boot							skz	skz	skz				mag%		25	25	mana-kill		10	10	nec		1	1	cast3		40	40													0
+Runeword260	Mana	1		helm	glov	belt	boot							gcb						manasteal		1	1																									0
+Runeword261	Mana	1		helm	glov	belt	boot							gcb	gcb					manasteal		2	2																									0
+Runeword262	Mana	1		helm	glov		boot							gcb	gcb	gcb				manasteal		3	3																									0
+Runeword263	Mana	1		helm	glov	belt	boot							gfb						manasteal		3	3																									0
+Runeword264	Mana	1		helm	glov	belt	boot							gfb	gfb					manasteal		4	4																									0
+Runeword265	Mana	1		helm	glov		boot							gfb	gfb	gfb				manasteal		5	5																									0
+Runeword266	Mana	1		helm	glov	belt	boot							gsb						manasteal		3	3	enr		5	5																					0
+Runeword267	Mana	1		helm	glov	belt	boot							gsb	gsb					manasteal		4	4	enr		7	7																					0
+Runeword268	Mana	1		helm	glov		boot							gsb	gsb	gsb				manasteal		5	5	enr		10	10																					0
+Runeword269	Mana	1		helm	glov	belt	boot							glb						manasteal		3	3	enr		10	10																					0
+Runeword270	Mana	1		helm	glov	belt	boot							glb	glb					manasteal		4	4	enr		13	13																					0
+Runeword271	Mana	1		helm	glov		boot							glb	glb	gsb				manasteal		5	5	enr		15	15																					0
+Runeword272	Mana	1		helm	glov	belt	boot							gpb						manasteal		3	3	enr		10	10	abs-cold%		5	5																	0
+Runeword273	Mana	1		helm	glov	belt	boot							gpb	gpb					manasteal		4	4	enr		13	13	abs-cold%		7	7																	0
+Runeword274	Mana	1		helm	glov		boot							gpb	gpb	gpb				manasteal		5	5	enr		15	15	dru		1	1	abs-cold%		10	10													0
+Runeword275	Power	1		helm	glov	belt	boot							gcg						swing1		5	5																									0
+Runeword276	Power	1		helm	glov	belt	boot							gcg	gcg					swing1		6	9																									0
+Runeword277	Power	1		helm	glov		boot							gcg	gcg	gcg				swing1		10	10																									0
+Runeword278	Power	1		helm	glov	belt	boot							gfg						swing1		7	7																									0
+Runeword279	Power	1		helm	glov	belt	boot							gfg	gfg					swing1		10	10																									0
+Runeword280	Power	1		helm	glov		boot							gfg	gfg	gfg				swing1		15	15																									0
+Runeword281	Power	1		helm	glov	belt	boot							gsg						swing1		7	7	ac%		10	10																					0
+Runeword282	Power	1		helm	glov	belt	boot							gsg	gsg					swing1		10	10	ac%		20	20																					0
+Runeword283	Power	1		helm	glov		boot							gsg	gsg	gsg				swing1		15	15	ac%		30	30																					0
+Runeword284	Power	1		helm	glov	belt	boot							glg						swing1		7	7	ac%		20	20																					0
+Runeword285	Power	1		helm	glov	belt	boot							glg	glg					swing1		10	10	ac%		40	40																					0
+Runeword286	Power	1		helm	glov		boot							glg	glg	glg				swing1		15	15	ac%		50	50																					0
+Runeword287	Power	1		helm	glov	belt	boot							gpg						swing1		7	7	ac%		20	20	red-dmg%			6	6																0
+Runeword288	Power	1		helm	glov	belt	boot							gpg	gpg					swing1		10	10	ac%		40	40	red-dmg%			8	8																0
+Runeword289	Power	1		helm	glov		boot							gpg	gpg	gpg				swing1		15	15	ac%		50	50	ama		1	1	red-dmg%		10	10													0
+Runeword290	Vitality	1		helm	glov	belt	boot							gcw						hp		10	10																									0
+Runeword291	Vitality	1		helm	glov	belt	boot							gcw	gcw					hp		13	13																									0
+Runeword292	Vitality	1		helm	glov		boot							gcw	gcw	gcw				hp		15	15																									0
+Runeword293	Vitality	1		helm	glov	belt	boot							gfw						hp		15	15																									0
+Runeword294	Vitality	1		helm	glov	belt	boot							gfw	gfw					hp		17	17																									0
+Runeword295	Vitality	1		helm	glov		boot							gfw	gfw	gfw				hp		20	20																									0
+Runeword296	Vitality	1		helm	glov	belt	boot							gsw						hp		15	15	regen		4	4																					0
+Runeword297	Vitality	1		helm	glov	belt	boot							gsw	gsw					hp		17	17	regen		5	5																					0
+Runeword298	Vitality	1		helm	glov		boot							gsw	gsw	gsw				hp		20	20	regen		6	6																					0
+Runeword299	Vitality	1		helm	glov	belt	boot							glw						hp		15	15	regen		5	5																					0
+Runeword300	Vitality	1		helm	glov	belt	boot							glw	glw					hp		17	17	regen		7	7																					0
+Runeword301	Vitality	1		helm	glov		boot							glw	glw	glw				hp		20	20	regen		8	8																					0
+Runeword302	Vitality	1		helm	glov	belt	boot							gpw						hp		15	15	regen		5	5	move3		20	20																	0
+Runeword303	Vitality	1		helm	glov	belt	boot							gpw	gpw					hp		17	17	regen		7	7	move3		30	30																	0
+Runeword304	Vitality	1		helm	glov									gpw	gpw	gpw				hp		20	20	regen		8	8	pal		1	1	move3		40	40													0
+Runeword305	Damage	1		tors	shld									gcv						dmg-max		3	3																									0
+Runeword306	Damage	1		tors	shld									gcv	gcv					dmg-max		4	4																									0
+Runeword307	Damage	1		tors	shld									gcv	gcv	gcv				dmg-max		5	5																									0
+Runeword308	Damage	1		tors	shld															dmg-max		6	6																									0
+Runeword309	Damage	1		tors	shld															dmg-max		7	7																									0
+Runeword310	Damage	1		tors	shld															dmg-max		8	8																									0
+Runeword311	Damage	1		tors	shld									gfv						dmg-max		9	9																									0
+Runeword312	Damage	1		tors	shld									gfv	gfv					dmg-max		10	10																									0
+Runeword313	Damage	1		tors	shld									gfv	gfv	gfv				dmg-max		11	11																									0
+Runeword314	Damage	1		tors	shld									gfv	gfv	gfv	gfv			dmg-max		12	12																									0
+Runeword315	Damage	1		tors	shld									gfv	gfv	gfv	gfv	gfv		dmg-max		13	13																									0
+Runeword316	Damage	1		tors	shld									gfv	gfv	gfv	gfv	gfv	gfv	dmg-max		14	14																									0
+Runeword317	Damage	1		tors	shld									gsv						dmg-max		5	5	dmg-min		5	5																					0
+Runeword318	Damage	1		tors	shld									gsv	gsv					dmg-max		7	7	dmg-min		7	7																					0
+Runeword319	Damage	1		tors	shld									gsv	gsv	gsv				dmg-max		9	9	dmg-min		9	9																					0
+Runeword320	Damage	1		tors	shld									gsv	gsv	gsv	gsv			dmg-max		11	11	dmg-min		11	11																					0
+Runeword321	Damage	1		tors	shld									gsv	gsv	gsv	gsv	gsv		dmg-max		13	13	dmg-min		13	13																					0
+Runeword322	Damage	1		tors	shld									gsv	gsv	gsv	gsv	gsv	gsv	dmg-max		15	15	dmg-min		15	15																					0
+Runeword323	Damage	1		tors	shld									gzv						dmg-max		17	17	dmg-min		7	7																					0
+Runeword324	Damage	1		tors	shld									gzv	gzv					dmg-max		19	19	dmg-min		9	9																					0
+Runeword325	Damage	1		tors	shld									gzv	gzv	gzv				dmg-max		21	21	dmg-min		12	12																					0
+Runeword326	Damage	1		tors	shld									gzv	gzv	gzv	gzv			dmg-max		23	23	dmg-min		14	14																					0
+Runeword327	Damage	1		tors	shld									gzv	gzv	gzv	gzv	gzv		dmg-max		25	25	dmg-min		17	17																					0
+Runeword328	Damage	1		tors	shld									gzv	gzv	gzv	gzv	gzv	gzv	dmg-max		27	27	dmg-min		19	19																					0
+Runeword329	Damage	1		tors	shld									gpv						dmg-max		29	29	dmg-min		7	7	dmg-mag		30	40																	0
+Runeword330	Damage	1		tors	shld									gpv	gpv					dmg-max		31	31	dmg-min		9	9	dmg-mag		40	50																	0
+Runeword331	Damage	1		tors	shld									gpv	gpv	gpv				dmg-max		33	33	dmg-min		12	12	dmg-mag		50	60																	0
+Runeword332	Damage	1		tors	shld									gpv	gpv	gpv	gpv			dmg-max		35	35	dmg-min		14	14	bar		1	1	dmg-mag		60	70													0
+Runeword333	Damage	1		tors	shld									gpv	gpv	gpv	gpv	gpv		dmg-max		37	37	dmg-min		17	17	bar		2	2	dmg-mag		70	80													0
+Runeword334	Damage	1		tors	shld									gpv	gpv	gpv	gpv	gpv	gpv	dmg-max		39	39	dmg-min		19	19	bar		3	3	dmg-mag		80	90													0
+Runeword335	Energy	1		tors	shld									gcy						mana		10	10																									0
+Runeword336	Energy	1		tors	shld									gcy	gcy					mana		13	13																									0
+Runeword337	Energy	1		tors	shld									gcy	gcy	gcy				mana		15	15																									0
+Runeword338	Energy	1		tors	shld									gcy	gcy	gcy	gcy			mana		18	18																									0
+Runeword339	Energy	1		tors	shld									gcy	gcy	gcy	gcy	gcy		mana		20	20																									0
+Runeword340	Energy	1		tors	shld									gcy	gcy	gcy	gcy	gcy	gcy	mana		23	23																									0
+Runeword341	Energy	1		tors	shld									gfy						mana		15	15																									0
+Runeword342	Energy	1		tors	shld									gfy	gfy					mana		20	20																									0
+Runeword343	Energy	1		tors	shld									gfy	gfy	gfy				mana		25	25																									0
+Runeword344	Energy	1		tors	shld									gfy	gfy	gfy	gfy			mana		30	30																									0
+Runeword345	Energy	1		tors	shld									gfy	gfy	gfy	gfy	gfy		mana		35	35																									0
+Runeword346	Energy	1		tors	shld									gfy	gfy	gfy	gfy	gfy	gfy	mana		40	40																									0
+Runeword347	Energy	1		tors	shld									gsy						mana		15	15	regen-mana		20	20																					0
+Runeword348	Energy	1		tors	shld									gsy	gsy					mana		20	20	regen-mana		30	30																					0
+Runeword349	Energy	1		tors	shld									gsy	gsy	gsy				mana		25	25	regen-mana		40	40																					0
+Runeword350	Energy	1		tors	shld									gsy	gsy	gsy	gsy			mana		30	30	regen-mana		50	50																					0
+Runeword351	Energy	1		tors	shld									gsy	gsy	gsy	gsy	gsy		mana		35	35	regen-mana		60	60																					0
+Runeword352	Energy	1		tors	shld									gsy	gsy	gsy	gsy	gsy	gsy	mana		40	40	regen-mana		70	70																					0
+Runeword353	Energy	1		tors	shld									gly						mana		15	15	regen-mana		30	30																					0
+Runeword354	Energy	1		tors	shld									gly	gly					mana		20	20	regen-mana		40	40																					0
+Runeword355	Energy	1		tors	shld									gly	gly	gly				mana		25	25	regen-mana		60	60																					0
+Runeword356	Energy	1		tors	shld									gly	gly	gly	gly			mana		30	30	regen-mana		73	73																					0
+Runeword357	Energy	1		tors	shld									gly	gly	gly	gly	gly		mana		35	35	regen-mana		88	88																					0
+Runeword358	Energy	1		tors	shld									gly	gly	gly	gly	gly	gly	mana		40	40	regen-mana		103	103																					0
+Runeword359	Energy	1		tors	shld									gpy						mana		15	15	regen-mana		30	30	mana%		5	5																	0
+Runeword360	Energy	1		tors	shld									gpy	gpy					mana		20	20	regen-mana		40	40	mana%		7	7																	0
+Runeword361	Energy	1		tors	shld									gpy	gpy	gpy				mana		25	25	regen-mana		60	60	mana%		10	10																	0
+Runeword362	Energy	1		tors	shld									gpy	gpy	gpy	gpy			mana		30	30	regen-mana		73	73	sor		1	1	mana%		12	12													0
+Runeword363	Energy	1		tors	shld									gpy	gpy	gpy	gpy	gpy		mana		35	35	regen-mana		88	88	sor		2	2	mana%		14	14													0
+Runeword364	Energy	1		tors	shld									gpy	gpy	gpy	gpy	gpy	gpy	mana		40	40	regen-mana		103	103	sor		3	3	mana%		17	17													0
+Runeword365	Life	1		tors	shld									gcr						lifesteal		1	1																									0
+Runeword366	Life	1		tors	shld									gcr	gcr					lifesteal		2	2																									0
+Runeword367	Life	1		tors	shld									gcr	gcr	gcr				lifesteal		3	3																									0
+Runeword368	Life	1		tors	shld									gcr	gcr	gcr	gcr			lifesteal		4	4																									0
+Runeword369	Life	1		tors	shld									gcr	gcr	gcr	gcr	gcr		lifesteal		5	5																									0
+Runeword370	Life	1		tors	shld									gcr	gcr	gcr	gcr	gcr	gcr	lifesteal		6	6																									0
+Runeword371	Life	1		tors	shld									gfr						lifesteal		3	3																									0
+Runeword372	Life	1		tors	shld									gfr	gfr					lifesteal		4	4																									0
+Runeword373	Life	1		tors	shld									gfr	gfr	gfr				lifesteal		5	5																									0
+Runeword374	Life	1		tors	shld									gfr	gfr	gfr	gfr			lifesteal		6	6																									0
+Runeword375	Life	1		tors	shld									gfr	gfr	gfr	gfr	gfr		lifesteal		7	7																									0
+Runeword376	Life	1		tors	shld									gfr	gfr	gfr	gfr	gfr	gfr	lifesteal		8	8																									0
+Runeword377	Life	1		tors	shld									gsr						lifesteal		3	3	vit		5	5																					0
+Runeword378	Life	1		tors	shld									gsr	gsr					lifesteal		4	4	vit		7	7																					0
+Runeword379	Life	1		tors	shld									gsr	gsr	gsr				lifesteal		5	5	vit		10	10																					0
+Runeword380	Life	1		tors	shld									gsr	gsr	gsr	gsr			lifesteal		6	6	vit		12	12																					0
+Runeword381	Life	1		tors	shld									gsr	gsr	gsr	gsr	gsr		lifesteal		7	7	vit		15	15																					0
+Runeword382	Life	1		tors	shld									gsr	gsr	gsr	gsr	gsr	gsr	lifesteal		8	8	vit		17	17																					0
+Runeword383	Life	1		tors	shld									glr						lifesteal		3	3	vit		10	10																					0
+Runeword384	Life	1		tors	shld									glr	glr					lifesteal		4	4	vit		13	13																					0
+Runeword385	Life	1		tors	shld									glr	glr	glr				lifesteal		5	5	vit		15	15																					0
+Runeword386	Life	1		tors	shld									glr	glr	glr	glr			lifesteal		6	6	vit		18	18																					0
+Runeword387	Life	1		tors	shld									glr	glr	glr	glr	glr		lifesteal		7	7	vit		20	20																					0
+Runeword388	Life	1		tors	shld									glr	glr	glr	glr	glr	glr	lifesteal		8	8	vit		23	23																					0
+Runeword389	Life	1		tors	shld									gpr						lifesteal		3	3	vit		10	10	hp%		5	5																	0
+Runeword390	Life	1		tors	shld									gpr	gpr					lifesteal		4	4	vit		13	13	hp%		7	7																	0
+Runeword391	Life	1		tors	shld									gpr	gpr	gpr				lifesteal		5	5	vit		15	15	hp%		10	10																	0
+Runeword392	Life	1		tors	shld									gpr	gpr	gpr	gpr			lifesteal		6	6	vit		18	18	ass		1	1	hp%		12	12													0
+Runeword393	Life	1		tors	shld									gpr	gpr	gpr	gpr	gpr		lifesteal		7	7	vit		20	20	ass		2	2	hp%		14	14													0
+Runeword394	Life	1		tors	shld									gpr	gpr	gpr	gpr	gpr	gpr	lifesteal		8	8	vit		23	23	ass		3	3	hp%		17	17													0
+Runeword395	Magic	1		tors	shld									skc						mag%		10	10																									0
+Runeword396	Magic	1		tors	shld									skc	skc					mag%		15	15																									0
+Runeword397	Magic	1		tors	shld									skc	skc	skc				mag%		20	20																									0
+Runeword398	Magic	1		tors	shld									skc	skc	skc	skc			mag%		25	25																									0
+Runeword399	Magic	1		tors	shld									skc	skc	skc	skc	skc		mag%		30	30																									0
+Runeword400	Magic	1		tors	shld									skc	skc	skc	skc	skc	skc	mag%		35	35																									0
+Runeword401	Magic	1		tors	shld									skf						mag%		15	15																									0
+Runeword402	Magic	1		tors	shld									skf	skf					mag%		20	20																									0
+Runeword403	Magic	1		tors	shld									skf	skf	skf				mag%		25	25																									0
+Runeword404	Magic	1		tors	shld									skf	skf	skf	skf			mag%		30	30																									0
+Runeword405	Magic	1		tors	shld									skf	skf	skf	skf	skf		mag%		35	35																									0
+Runeword406	Magic	1		tors	shld									skf	skf	skf	skf	skf	skf	mag%		40	40																									0
+Runeword407	Magic	1		tors	shld									sku						mag%		15	15	mana-kill		4	4																					0
+Runeword408	Magic	1		tors	shld									sku	sku					mag%		20	20	mana-kill		6	6																					0
+Runeword409	Magic	1		tors	shld									sku	sku	sku				mag%		25	25	mana-kill		8	8																					0
+Runeword410	Magic	1		tors	shld									sku	sku	sku	sku			mag%		30	30	mana-kill		10	10																					0
+Runeword411	Magic	1		tors	shld									sku	sku	sku	sku	sku		mag%		35	35	mana-kill		12	12																					0
+Runeword412	Magic	1		tors	shld									sku	sku	sku	sku	sku	sku	mag%		40	40	mana-kill		14	14																					0
+Runeword413	Magic	1		tors	shld									skl						mag%		15	15	mana-kill		6	6																					0
+Runeword414	Magic	1		tors	shld									skl	skl					mag%		20	20	mana-kill		8	8																					0
+Runeword415	Magic	1		tors	shld									skl	skl	skl				mag%		25	25	mana-kill		10	10																					0
+Runeword416	Magic	1		tors	shld									skl	skl	skl	skl			mag%		30	30	mana-kill		12	12																					0
+Runeword417	Magic	1		tors	shld									skl	skl	skl	skl	skl		mag%		35	35	mana-kill		14	14																					0
+Runeword418	Magic	1		tors	shld									skl	skl	skl	skl	skl	skl	mag%		40	40	mana-kill		16	16																					0
+Runeword419	Magic	1		tors	shld									skz						mag%		15	15	mana-kill		6	6	cast3		20	20																	0
+Runeword420	Magic	1		tors	shld									skz	skz					mag%		20	20	mana-kill		8	8	cast3		30	30																	0
+Runeword421	Magic	1		tors	shld									skz	skz	skz				mag%		25	25	mana-kill		10	10	cast3		40	40																	0
+Runeword422	Magic	1		tors	shld									skz	skz	skz	skz			mag%		30	30	mana-kill		12	12	nec		1	1	cast3		50	50													0
+Runeword423	Magic	1		tors	shld									skz	skz	skz	skz	skz		mag%		35	35	mana-kill		14	14	nec		2	2	cast4		60	60													0
+Runeword424	Magic	1		tors	shld									skz	skz	skz	skz	skz	skz	mag%		40	40	mana-kill		16	16	nec		3	3	cast5		70	70													0
+Runeword425	Mana	1		tors	shld									gcb						manasteal		1	1																									0
+Runeword426	Mana	1		tors	shld									gcb	gcb					manasteal		2	2																									0
+Runeword427	Mana	1		tors	shld									gcb	gcb	gcb				manasteal		3	3																									0
+Runeword428	Mana	1		tors	shld									gcb	gcb	gcb	gcb			manasteal		4	4																									0
+Runeword429	Mana	1		tors	shld									gcb	gcb	gcb	gcb	gcb		manasteal		5	5																									0
+Runeword430	Mana	1		tors	shld									gcb	gcb	gcb	gcb	gcb	gcb	manasteal		6	6																									0
+Runeword431	Mana	1		tors	shld									gfb						manasteal		3	3																									0
+Runeword432	Mana	1		tors	shld									gfb	gfb					manasteal		4	4																									0
+Runeword433	Mana	1		tors	shld									gfb	gfb	gfb				manasteal		5	5																									0
+Runeword434	Mana	1		tors	shld									gfb	gfb	gfb	gfb			manasteal		6	6																									0
+Runeword435	Mana	1		tors	shld									gfb	gfb	gfb	gfb	gfb		manasteal		7	7																									0
+Runeword436	Mana	1		tors	shld									gfb	gfb	gfb	gfb	gfb	gfb	manasteal		8	8																									0
+Runeword437	Mana	1		tors	shld									gsb						manasteal		3	3	enr		5	5																					0
+Runeword438	Mana	1		tors	shld									gsb	gsb					manasteal		4	4	enr		7	7																					0
+Runeword439	Mana	1		tors	shld									gsb	gsb	gsb				manasteal		5	5	enr		10	10																					0
+Runeword440	Mana	1		tors	shld									gsb	gsb	gsb	gsb			manasteal		6	6	enr		12	12																					0
+Runeword441	Mana	1		tors	shld									gsb	gsb	gsb	gsb	gsb		manasteal		7	7	enr		15	15																					0
+Runeword442	Mana	1		tors	shld									gsb	gsb	gsb	gsb	gsb	gsb	manasteal		8	8	enr		17	17																					0
+Runeword443	Mana	1		tors	shld									glb						manasteal		3	3	enr		10	10																					0
+Runeword444	Mana	1		tors	shld									glb	glb					manasteal		4	4	enr		13	13																					0
+Runeword445	Mana	1		tors	shld									glb	glb	glb				manasteal		5	5	enr		15	15																					0
+Runeword446	Mana	1		tors	shld									glb	glb	glb	glb			manasteal		6	6	enr		18	18																					0
+Runeword447	Mana	1		tors	shld									glb	glb	glb	glb	glb		manasteal		7	7	enr		20	20																					0
+Runeword448	Mana	1		tors	shld									glb	glb	glb	glb	glb	glb	manasteal		8	8	enr		23	23																					0
+Runeword449	Mana	1		tors	shld									gpb						manasteal		3	3	enr		10	10	abs-cold%		5	5																	0
+Runeword450	Mana	1		tors	shld									gpb	gpb					manasteal		4	4	enr		13	13	abs-cold%		7	7																	0
+Runeword451	Mana	1		tors	shld									gpb	gpb	gpb				manasteal		5	5	enr		15	15	abs-cold%		10	10																	0
+Runeword452	Mana	1		tors	shld									gpb	gpb	gpb	gpb			manasteal		6	6	enr		18	18	dru		1	1	abs-cold%		12	12													0
+Runeword453	Mana	1		tors	shld									gpb	gpb	gpb	gpb	gpb		manasteal		7	7	enr		20	20	dru		2	2	abs-cold%		14	14													0
+Runeword454	Mana	1		tors	shld									gpb	gpb	gpb	gpb	gpb	gpb	manasteal		8	8	enr		23	23	dru		3	3	abs-cold%		17	17													0
+Runeword455	Power	1		tors	shld									gcg						swing1		5	5																									0
+Runeword456	Power	1		tors	shld									gcg	gcg					swing2		6	9																									0
+Runeword457	Power	1		tors	shld									gcg	gcg	gcg				swing3		10	10																									0
+Runeword458	Power	1		tors	shld									gcg	gcg	gcg	gcg			swing4		12	13																									0
+Runeword459	Power	1		tors	shld									gcg	gcg	gcg	gcg	gcg		swing5		15	16																									0
+Runeword460	Power	1		tors	shld									gcg	gcg	gcg	gcg	gcg	gcg	swing6		17	18																									0
+Runeword461	Power	1		tors	shld									gfg						swing7		7	7																									0
+Runeword462	Power	1		tors	shld									gfg	gfg					swing8		10	10																									0
+Runeword463	Power	1		tors	shld									gfg	gfg	gfg				swing9		15	15																									0
+Runeword464	Power	1		tors	shld									gfg	gfg	gfg	gfg			swing10		19	19																									0
+Runeword465	Power	1		tors	shld									gfg	gfg	gfg	gfg	gfg		swing11		23	23																									0
+Runeword466	Power	1		tors	shld									gfg	gfg	gfg	gfg	gfg	gfg	swing12		27	27																									0
+Runeword467	Power	1		tors	shld									gsg						swing13		7	7	ac%		10	10																					0
+Runeword468	Power	1		tors	shld									gsg	gsg					swing14		10	10	ac%		20	20																					0
+Runeword469	Power	1		tors	shld									gsg	gsg	gsg				swing15		15	15	ac%		30	30																					0
+Runeword470	Power	1		tors	shld									gsg	gsg	gsg	gsg			swing16		19	19	ac%		40	40																					0
+Runeword471	Power	1		tors	shld									gsg	gsg	gsg	gsg	gsg		swing17		23	23	ac%		50	50																					0
+Runeword472	Power	1		tors	shld									gsg	gsg	gsg	gsg	gsg	gsg	swing18		27	27	ac%		60	60																					0
+Runeword473	Power	1		tors	shld									glg						swing19		7	7	ac%		20	20																					0
+Runeword474	Power	1		tors	shld									glg	glg					swing20		10	10	ac%		40	40																					0
+Runeword475	Power	1		tors	shld									glg	glg	glg				swing21		15	15	ac%		50	50																					0
+Runeword476	Power	1		tors	shld									glg	glg	glg	glg			swing22		19	19	ac%		67	67																					0
+Runeword477	Power	1		tors	shld									glg	glg	glg	glg	glg		swing23		23	23	ac%		82	82																					0
+Runeword478	Power	1		tors	shld									glg	glg	glg	glg	glg	glg	swing24		27	27	ac%		97	97																					0
+Runeword479	Power	1		tors	shld									gpg						swing25		7	7	ac%		20	20	red-dmg%		6	6																	0
+Runeword480	Power	1		tors	shld									gpg	gpg					swing26		10	10	ac%		40	40	red-dmg%		8	8																	0
+Runeword481	Power	1		tors	shld									gpg	gpg	gpg				swing27		15	15	ac%		50	50	red-dmg%		10	10																	0
+Runeword482	Power	1		tors	shld									gpg	gpg	gpg	gpg			swing28		19	19	ac%		67	67	ama		1	1	red-dmg%		12	12													0
+Runeword483	Power	1		tors	shld									gpg	gpg	gpg	gpg	gpg		swing29		23	23	ac%		82	82	ama		2	2	red-dmg%		14	14													0
+Runeword484	Power	1		tors	shld									gpg	gpg	gpg	gpg	gpg	gpg	swing30		27	27	ac%		97	97	ama		3	3	red-dmg%		16	16													0
+Runeword485	Vitality	1		tors	shld									gcw						hp		10	10																									0
+Runeword486	Vitality	1		tors	shld									gcw	gcw					hp		13	13																									0
+Runeword487	Vitality	1		tors	shld									gcw	gcw	gcw				hp		15	15																									0
+Runeword488	Vitality	1		tors	shld									gcw	gcw	gcw	gcw			hp		18	18																									0
+Runeword489	Vitality	1		tors	shld									gcw	gcw	gcw	gcw	gcw		hp		20	20																									0
+Runeword490	Vitality	1		tors	shld									gcw	gcw	gcw	gcw	gcw	gcw	hp		23	23																									0
+Runeword491	Vitality	1		tors	shld									gfw						hp		15	15																									0
+Runeword492	Vitality	1		tors	shld									gfw	gfw					hp		17	17																									0
+Runeword493	Vitality	1		tors	shld									gfw	gfw	gfw				hp		20	20																									0
+Runeword494	Vitality	1		tors	shld									gfw	gfw	gfw	gfw			hp		22	22																									0
+Runeword495	Vitality	1		tors	shld									gfw	gfw	gfw	gfw	gfw		hp		25	25																									0
+Runeword496	Vitality	1		tors	shld									gfw	gfw	gfw	gfw	gfw	gfw	hp		27	27																									0
+Runeword497	Vitality	1		tors	shld									gsw						hp		15	15	regen		4	4																					0
+Runeword498	Vitality	1		tors	shld									gsw	gsw					hp		17	17	regen		5	5																					0
+Runeword499	Vitality	1		tors	shld									gsw	gsw	gsw				hp		20	20	regen		6	6																					0
+Runeword500	Vitality	1		tors	shld									gsw	gsw	gsw	gsw			hp		22	22	regen		7	7																					0
+Runeword501	Vitality	1		tors	shld									gsw	gsw	gsw	gsw	gsw		hp		25	25	regen		8	8																					0
+Runeword502	Vitality	1		tors	shld									gsw	gsw	gsw	gsw	gsw	gsw	hp		27	27	regen		9	9																					0
+Runeword503	Vitality	1		tors	shld									glw						hp		15	15	regen		5	5																					0
+Runeword504	Vitality	1		tors	shld									glw	glw					hp		17	17	regen		7	7																					0
+Runeword505	Vitality	1		tors	shld									glw	glw	glw				hp		20	20	regen		8	8																					0
+Runeword506	Vitality	1		tors	shld									glw	glw	glw	glw			hp		22	22	regen		10	10																					0
+Runeword507	Vitality	1		tors	shld									glw	glw	glw	glw	glw		hp		25	25	regen		11	11																					0
+Runeword508	Vitality	1		tors	shld									glw	glw	glw	glw	glw	glw	hp		27	27	regen		13	13																					0
+Runeword509	Vitality	1		tors	shld									gpw						hp		15	15	regen		5	5	move3		20	20																	0
+Runeword510	Vitality	1		tors	shld									gpw	gpw					hp		17	17	regen		7	7	move3		30	30																	0
+Runeword511	Vitality	1		tors	shld									gpw	gpw	gpw				hp		20	20	regen		8	8	move3		40	40																	0
+Runeword512	Vitality	2		tors	shld									gpw	gpw	gpw	gpw			hp		22	22	regen		10	10	pal		1	1	move3		50	50													0
+Runeword513	Vitality	3		tors	shld									gpw	gpw	gpw	gpw	gpw		hp		25	25	regen		11	11	pal		1	1	move3		60	60													0
+Runeword514	Vitality	4		tors	shld									gpw	gpw	gpw	gpw	gpw	gpw	hp		27	27	regen		13	13	pal		1	1	move3		70	70													0
+Runeword515	Aegirs Wrath	1	1	shld										r08	r02	r20				res-cold		40	40	dmg-norm		15	15	move1		20	20	gold%		100	100													0
+Runeword516	Balders Wit	1	1	axe	club	pole	hamm							r19	r23	r05	r12			noheal		1	1	slow		15	15	stupidity		30	30	thorns		15	15													0
+Runeword517	Odins Battle Helm	1	1	helm										r32	r25	r30				dmg-cold	5	50	50	abs-cold%		15	15	allskills		1	1	vit		30	30													0
+Runeword518	Freyjas Beauty	1	1	axe	club	hamm								r01	r03	r13	r15	r16		dex		15	15	hp%		15	15	openwounds		30	30	swing2		20	20	balance2		20	20									0
+Runeword519	Heimdalls Destruction	1	1	helm										r06	r07	r08				gold%		90	90	regen		10	10	nofreeze		1	1	dmg-fire		50	50													0
+Runeword520	Skadis Coldness	1	1	club	hamm	mace	staf							r25	r20	r19				sor		1	1	freeze		50	50	dmg-to-mana		25	25	dmg-cold	5	30	30	res-cold		100	100									0
+Runeword521	Njords Storm	1	1	spea	axe	swor								r10	r17	r13	r18			swing2		20	20	move2		30	30	deadly		40	40	dmg-ltng		30	30	reduce-ac		15	15									0
+Runeword522	Tyrs Fenris	1	1	spea	wand									r25	r29					nec		1	1	rep-dur		5	5	manasteal		10	10	red-dmg%		15	15	abs-mag%		15	15									0
+Runeword523	Baldrs Siege	1	1	weap										r09	r03	r21				ac%		47	47	res-fire		3	3	res-ltng		33	33	move1		10	10													0
+Runeword524	Friggas Wind	1	1	miss	mele									r04	r09	r17				ama		1	1	crush		40	40	deadly		50	50	pierce		50	50													0
+Runeword525	Hels Fire	1	1	weap										r31	r32	r33	r28	r29	r30	dmg-fire		100	100	res-fire		100	100	res-fire-max		20	20	bar		1	1													0
+Runeword526	Lokis Blood	1	1	helm										r03	r27	r23				lifesteal		10	10	dmg-pois	10	50	100	res-pois		50	50	balance3		30	30													0
+Runeword527	Forsetis Judgement	1	1	shld										r10	r09	r16	r22			balance3		30	30	cast3		30	30	block3		30	30	swing3		30	30													0
+Runeword528	Hods Blindness	1	1	tors										r03	r09	r13	r06			stupidity		100	100	slow		15	15	openwounds		30	30	hp		30	30													0
+Runeword529	Nannas Moon	1	1	weap										r30	r20					reduce-ac		50	50	dmg%		100	100	mag%		50	50	gold%		100	100													0
+Runeword530	Hildrs Battle	1	1	weap										r01	r02	r03	r04			ac%		10	10	att		50	50	freeze		10	10																	0
+Runeword531	Bils Weaving	1	1	axe	swor	pole								r03	r19	r27				red-dmg%		30	30	dmg-ltng		1	150	half-freeze		1	1	enr		25	25													0
+Runeword532	Bolthorns Frost	1	1	mele										r04	r14	r24	r31	r13		dmg%		120	120	dmg-cold	10	40	50	abs-cold%		25	25	res-cold		100	100													0
+Runeword533	Dellings Brightness	1	1	helm										r11	r03	r31				fireskill		1	1	dmg-ltng		20	60	abs-ltng%		20	20	res-ltng		40	40	gold%		300	300									0
+Runeword534	Eirs Health	1	1	helm										r14	r20	r04				regen		25	25	lifesteal		15	15	indestruct		1	1																	0
+Runeword535	Hermods Swiftness	1	1	shld										r18	r14	r05				slow		70	70	freeze		70	70	move3		30	30	block3		30	30													0
+Runeword536	Ultima Valhalla	1	1	weap										r31	r32	r33				allskills		2	2	dmg%		180	180	ignore-ac		1	1	red-dmg%		50	50	dmg-fire		50	100	res-all		50	50					0
+Runeword202	Damage	1		helm	glov	boot								gcv	gcv	gcv	gcv			dmg-max		10	10																									0
+Runeword205	Damage	1		helm	glov	boot								gfv	gfv	gfv	gfv			dmg-max		14	14																									0
+Runeword208	Damage	1		helm	glov	boot								gsv	gsv	gsv	gsv			dmg-max		15	15	dmg-min		15	15																					0
+Runeword211	Damage	1		helm	glov	boot								gzv	gzv	gzv	gzv			dmg-max		16	16	dmg-min		18	18																					0
+Runeword214	Damage	1		helm	glov	boot								gpv	gpv	gpv	gpv			dmg-max		17	17	dmg-min		18	18	bar		2	3	dmg-mag		100	150													0
+Runeword217	Energy	1		helm	glov	boot								gcy	gcy	gcy	gcy			mana		25	25																									0
+Runeword220	Energy	1		helm	glov	boot								gfy	gfy	gfy	gfy			mana		30	30																									0
+Runeword223	Energy	1		helm	glov	boot								gsy	gsy	gsy	gsy			mana		30	30	regen-mana		45	45																					0
+Runeword226	Energy	1		helm	glov	boot								gly	gly	gly	gly			mana		30	30	regen-mana		70	70																					0
+Runeword229	Energy	1		helm	glov	boot								gpy	gpy	gpy	gpy			mana		30	30	regen-mana		70	70	sor		2	3	mana%		15	15													0
+Runeword232	Life	1		helm	glov	boot								gcr	gcr	gcr	gcr			lifesteal		4	4																									0
+Runeword235	Life	1		helm	glov	boot								gfr	gfr	gfr	gfr			lifesteal		6	6																									0
+Runeword238	Life	1		helm	glov	boot								gsr	gsr	gsr	gsr			lifesteal		6	6	vit		15	15																					0
+Runeword241	Life	1		helm	glov	boot								glr	glr	glr	glr			lifesteal		6	6	vit		20	20																					0
+Runeword244	Life	1		helm	glov	boot								gpr	gpr	gpr	gpr			lifesteal		6	6	vit		20	20	dru		2	3	hp%		15	15													0
+Runeword247	Magic	1		helm	glov	boot								skc	skc	skc	skc			mag%		25	25																									0
+Runeword250	Magic	1		helm	glov	boot								skf	skf	skf	skf			mag%		30	30																									0
+Runeword253	Magic	1		helm	glov	boot								sku	sku	sku	sku			mag%		30	30	mana-kill		10	10																					0
+Runeword256	Magic	1		helm	glov	boot								skl	skl	skl	skl			mag%		30	30	mana-kill		12	12																					0
+Runeword259	Magic	1		helm	glov	boot								skz	skz	skz	skz			mag%		30	30	mana-kill		12	12	nec		2	3	cast3		45	45													0
+Runeword262	Mana	1		helm	glov	boot								gcb	gcb	gcb	gcb			manasteal		5	5																									0
+Runeword265	Mana	1		helm	glov	boot								gfb	gfb	gfb	gfb			manasteal		7	7																									0
+Runeword268	Mana	1		helm	glov	boot								gsb	gsb	gsb	gsb			manasteal		7	7	enr		15	15																					0
+Runeword271	Mana	1		helm	glov	boot								glb	glb	gsb	gsb			manasteal		7	7	enr		20	20																					0
+Runeword274	Mana	1		helm	glov	boot								gpb	gpb	gpb	gpb			manasteal		7	7	enr		20	20	ass		2	3	abs-cold%		15	15													0
+Runeword277	Power	1		helm	glov	boot								gcg	gcg	gcg	gcg			swing1		15	15																									0
+Runeword280	Power	1		helm	glov	boot								gfg	gfg	gfg	gfg			swing1		20	20																									0
+Runeword283	Power	1		helm	glov	boot								gsg	gsg	gsg	gsg			swing1		20	20	ac%		35	35																					0
+Runeword286	Power	1		helm	glov	boot								glg	glg	glg	glg			swing1		20	20	ac%		60	60																					0
+Runeword289	Power	1		helm	glov	boot								gpg	gpg	gpg	gpg			swing1		20	20	ac%		60	60	ama		2	3	red-dmg%		20	20													0
+Runeword292	Vitality	1		helm	glov	boot								gcw	gcw	gcw	gcw			hp		25	25																									0
+Runeword295	Vitality	1		helm	glov	boot								gfw	gfw	gfw	gfw			hp		30	30																									0
+Runeword298	Vitality	1		helm	glov	boot								gsw	gsw	gsw	gsw			hp		30	30	regen		15	15																					0
+Runeword301	Vitality	1		helm	glov	boot								glw	glw	glw	glw			hp		30	30	regen		25	25																					0
+Runeword304	Vitality	1		helm	glov	boot								gpw	gpw	gpw	gpw			hp		30	30	regen		25	25	pal		2	3	move3		45	45													0
